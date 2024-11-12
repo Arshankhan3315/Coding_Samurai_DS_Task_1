@@ -39,7 +39,7 @@ In this phase, we are going to share our work with the stakeholders. Here the fi
 In this phase, key findings from our analysis will be mentioned and some limitations of the project will be scripted as well.
 
 ## Author
-[Abhishek Ramesh Shettigar]
+[Arshan Khan]
 
 ## Acknowledgement
 The author would like to thank Coding Samurai for providing this internship opportunity.
